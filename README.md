@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working on some cool stuff<br>🤝 collaborating on random ideas & projects<br>🆘 looking for help with building + scaling things<br>🌱 learning as I go (mostly tech + ai)<br>💬 ask me about anything honestly<br>⚡ fun fact: i write poems sometimes ✨
+🔭 currently working on some cool stuff<br>🤝 collaborating on random ideas & projects<br>🆘 looking for help with building + scaling things<br>🌱 learning as I go (mostly tech + ai⚡ fun fact: i write poems sometimes ✨
 
 
 ## 🌐 Socials:
