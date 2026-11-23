@@ -24,6 +24,6 @@ I build **AI-powered products and end-to-end applications**.
 &#9656; **Finalist** · ICPC AlgoQueen Quest 2026<br>
 &#9656; **Semi-Finalist** · Flipkart GRiD 8.0<br>
 &#9656; **Winner** · Dream Flow Hackathon<br>
-&#9656; **Runner-up** · nAgent AI Hackathon<br>
+&#9656; **Runner-up** · Nagent AI Hackathon<br>
 &#9656; **Top 1,500** · The Big Code 2026 (Google India)<br>
 &#9656; **Top 200 Scholar** · Flipkart GWC 7.0<br>
