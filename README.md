@@ -18,7 +18,7 @@ I build **AI-powered products and end-to-end applications**.
 &#9656; **Creator and Maintainer** · [Skill Audit](https://github.com/DebugDyanmo/skill-audit) · npm audit for AI agent skills: detects prompt injection, hidden instructions, and data exfiltration<br>
 &#9656; **Building** · [Opportunity-OS](https://github.com/DebugDyanmo/Opportunity-OS) · every scholarship, job, and internship you are eligible for, matched, planned, and tracked in one place<br>
 &#9656; **Building** · [retinaai](https://github.com/DebugDyanmo/retinaai) · predicts diabetic retinopathy severity (5 clinical classes) from retinal fundus images and explains predictions <br>
-&#9656; <img src="skyline.svg" align="right" width="230" alt="pixel night skyline"><b>Selected</b> · GitLab for Startups · [Cruxy](https://github.com/DebugDyanmo/cruxy) · on-demand salon and grooming services platform<br>
+&#9656; <img src="skyline.svg" align="right" width="250" alt="pixel night skyline"><b>Selected</b> · GitLab for Startups · [Cruxy](https://github.com/DebugDyanmo/cruxy) · on-demand salon and grooming services platform<br>
 &#9656; **Finalist** · ICPC AlgoQueen Quest 2026<br>
 &#9656; **Semi-Finalist** · Flipkart GRiD 8.0<br>
 &#9656; **Winner** · Dream Flow Hackathon<br>
