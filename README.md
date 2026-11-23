@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 currently working on some cool stuff<br>🤝 collaborating on random ideas & projects<br>🆘 looking for help with building + scaling things<br>🌱 learning as I go (mostly tech + ai⚡ fun fact: i write poems sometimes ✨
 
+(https://github-stats-extended.vercel.app/api?username=DebugDyanmo)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mannat1806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mannatthukral) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thukralmannat18@gmail.com) 
